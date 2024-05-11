@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: b3fbf63b957d1074bb6a1a270f8163ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 449
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcb7db4ee0e3e446a93c5f52667a878
+      internalID: -403725362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 449
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a0dccc03cfd8a44877b95207a68f9c
+      internalID: 1720637590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 449
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a32f03aeca7c94ab7bc9729ce90170
+      internalID: 1822565750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630c20690c86aa4e84a99271cc81447
+      internalID: -1517729545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 386
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876321c79ea17f040b6cce23af95543d
+      internalID: 352678099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 386
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8c1e1c22b85041b04427defef844d
+      internalID: 555103128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 385
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d4c473c3bf9c4ca3b3834be50c8ad
+      internalID: -1605050545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 321
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ad1a82490b92478fd5f5d10568eb8
+      internalID: 202390618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 321
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc971e5ade9b8443b92a286abf1573e
+      internalID: -988932848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 361
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b772700926f91bc4b9e5e3cb39728ddf
+      internalID: 190587177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 321
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720eb773c86ce4144a0b7d735bfccc88
+      internalID: -377195562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 349
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eca1820d0426a4cabdb238e674d90d
+      internalID: -2009617562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 324
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b33e4a4dcbd5e4db2481f24075d24d
+      internalID: -814697158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d605faaf41d204fbda4659af3717dc
+      internalID: -884121248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 257
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae433e704cf838f4e80e549bdf984654
+      internalID: -915939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 257
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac9d519a53184b4299b98a54af54c13
+      internalID: 1800554778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105c2ca66edac346b2f75b5102c52bc
+      internalID: 1066474915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8d9c8259bc3d48a9cfe783490695b
+      internalID: -893518133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a390303ea2ef60544910acd792059cda
+      internalID: 2065697365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 221
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac0a201f55c2c41b912e0ac7a41fb6
+      internalID: 1157756714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 154
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510ad89867a16934080d56631fc26857
+      internalID: -1278278386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 153
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06598155c600bd44088e1cc3a0897c36
+      internalID: -227114010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 153
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17126f9e6d30ca34ca1808ad3e5b66ad
+      internalID: -1131585148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 157
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e8890b8b007384397bd02c3b4ae79d
+      internalID: 969966101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 83
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c133977fefb784a8bcd00f0c3b14a6
+      internalID: 431361468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 84
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48421afa733b9684a9505f3be91a2ab2
+      internalID: -53419641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 92
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed2ac0f92ed904a93794ed2b67ab87
+      internalID: -259721305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 90
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eddb34136556241834b17ad361af69
+      internalID: -887823291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9fbc4787a0ff04ba7ee134314d0f57
+      internalID: 1666309924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61910daad9337c44dbff687f498bd955
+      internalID: 775104070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 30
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294eda62c2a538346a7d9b65013b0aba
+      internalID: -1760132584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_31
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091336ecf7de5a84e81cc8ca4d8165a2
+      internalID: -1282587171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_32
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856160cba802f4d4e9bb807cea775dc1
+      internalID: 1332894058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_0: -403725362
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_1: 1720637590
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_10: -377195562
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_11: -2009617562
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_12: -814697158
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_13: -884121248
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_14: -915939
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_15: 1800554778
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_16: 1066474915
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_17: -893518133
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_18: 2065697365
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_19: 1157756714
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_2: 1822565750
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_20: -1278278386
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_21: -227114010
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_22: -1131585148
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_23: 969966101
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_24: 431361468
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_25: -53419641
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_26: -259721305
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_27: -887823291
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_28: 1666309924
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_29: 775104070
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_3: -1517729545
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_30: -1760132584
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_31: -1282587171
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_32: 1332894058
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_4: 352678099
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_5: 555103128
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_6: -1605050545
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_7: 202390618
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_8: -988932848
+      PC Computer - Koumajou Densetsu II Strangers Requiem - Skeleton_9: 190587177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

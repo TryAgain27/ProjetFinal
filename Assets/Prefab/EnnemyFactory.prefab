@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4037741312979968140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4903518724067081892}
+  - component: {fileID: 5623714519154829442}
+  m_Layer: 0
+  m_Name: EnnemyFactory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4903518724067081892
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4037741312979968140}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.3169875, y: -0.18268776, z: -0.044917066}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5623714519154829442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4037741312979968140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c362871eb70682e4a85ff468647d7cf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weakEnnemy:
+  - {fileID: 8890111662868274954, guid: 732423849dd2a4b41a355031e49be15a, type: 3}
+  - {fileID: 2754363472159750581, guid: bce421fa62194264cb80113ad906016f, type: 3}
+  - {fileID: 6167386380440173581, guid: 78c0a3c45d3ed644d8d17cbbc1f8c4cd, type: 3}
+  - {fileID: 431547810742281627, guid: 5168c042930c6384f8b103728278b8e7, type: 3}
+  - {fileID: 9171056423413965541, guid: e4d89b5e0452cf344a5151ee0978c6e2, type: 3}
+  - {fileID: 6932099673338409974, guid: 06777aa1598385441bea62b82ca64329, type: 3}
+  - {fileID: 1434146239295723237, guid: 91f1838e2b6725341b8f1c68e2e226cc, type: 3}
+  - {fileID: 7588131898551713369, guid: a901af5e99838d14994eae0b168567aa, type: 3}
+  - {fileID: 8347371214631356623, guid: 5013f9f9448056a488405fe5d0e75a16, type: 3}
+  - {fileID: 6408453243495117688, guid: 8c92ad1d9fe5e6341ac96a473618c866, type: 3}
+  strongEnnemy:
+  - {fileID: 1645411250526023247, guid: 1c982910c72365747b801b52f5a4aed5, type: 3}
+  - {fileID: 2275103922258899800, guid: 4aa500f0e64c1474abd255372cac417f, type: 3}
